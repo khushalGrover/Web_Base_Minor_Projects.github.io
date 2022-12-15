@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+
+    <title>Matric Opeations</title>
+</head>
+<body>
+    <h1 class="title">Welcome to the Matrix Mini Calculator</h1>
+    
+    <div class="mainMenu">
+        <h3 class = "subTitle">Choose a Operation</h3>
+        <div class="operationLists">
+            <button class="btn">Transpose</button>
+            <button class="btn">Addition</button>
+            <button class="btn">Subtractions</button>
+            <button class="btn">Multiplication</button>
+        </div>
+    </div>
+    
+    <div class="inputMatrixForm">
+        <h3 class="subTitle">Please Enter Order of Matrix</h3>
+        <form action="/action_page.php">
+            <input type="range" id="vol" name="vol" min="0" max="50"><br><br>
+            <label for="R_number">Rows numbers:</label>
+            <input type="text" id="Rnumber" name="Rnumber"><br><br><br>
+            <input type="range" id="vol2" name="vol" min="0" max="50"><br><br>
+            <label for="C_number">Columns numbers:</label>
+            <input type="text" id="Cnumber" name="Cnumber"><br><br>
+          </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
