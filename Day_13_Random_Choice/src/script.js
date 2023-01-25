@@ -39,7 +39,7 @@ function createTags(input) {
 
 // call PickRandomTag functioin and give that random picking animation...
 function randomSelect() {
-    const times = 10
+    const times = 30
     const interval = setInterval(() =>  {
         const randomTag = pickRandomTag()
 
@@ -56,7 +56,7 @@ function randomSelect() {
             const randomTag = pickRandomTag()
 
             highlightTag(randomTag)
-        })
+        },100)
 
     }, times * 100)
 }
