@@ -13,8 +13,8 @@ body{
 }
 
 .index {
-    padding: 10px;
-    width: 20%;
+    /* padding: 10px; */
+    width: 15%;
     background: rgb(178, 178, 178);
     align-items: center;
     /* flex-grow: 2; */
@@ -24,13 +24,14 @@ body{
     /* padding: 10px; */
 }
 .index .lists .item {
-    /* padding: 0px 10px; */
+    display: flex;
+    padding: 10px 10px;
     /* align-items: ; */
-    margin: 20px 0;
-    background-color: rgb(255, 147, 147);
+    margin: 10px;
+    background-color: rgb(254, 229, 229);
     /* width: 25%; */
-    height: 20px;
-    border-radius: 20px;
+    /* height: ; */
+    border-radius: 10px;
     list-style-type: none;
     text-decoration: none;
 }
@@ -42,6 +43,5 @@ body{
     text-align: justify;
     background: rgb(224, 224, 224);
     flex-grow: 1;
-    /* width: auto; */
     flex-basis: 0;
 }
