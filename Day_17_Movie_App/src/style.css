@@ -1,6 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
-
 
 :root {
     --primary-color: #22254b;
@@ -17,34 +15,6 @@ body{
     margin: 0;
 }
 
-
-.index {
-    padding: 10px;
-    width: 15%;
-    background: rgb(178, 178, 178);
-    align-items: center;
-    flex-grow: 2;
-
-}
-.index .lists {
-    padding: 10px;
-}
-.index .lists .item {
-    display: flex;
-    padding: 10px 10px;
-    align-items: center;
-    margin: 10px;
-    background-color: rgb(254, 229, 229);
-    /* width: 25%; */
-    /* height: ; */ 
-    border-radius: 10px;
-    list-style-type: none;
-    text-decoration: none;
-}
-
-.preview-page {
-    background-color: #eee;
-}
 header {
     padding: 1rem;
     display: flex;
@@ -78,7 +48,7 @@ main {
     flex-wrap: wrap;
 }
 
-.project {
+.movie {
     width: 300px;
     margin: 1rem;
     background-color: var(--secondary-color);
@@ -89,12 +59,12 @@ main {
 }
 
 
-.project img {
+.movie img {
     width: 100%;
 
 }
 
-.project-info {
+.movie-info {
     color: #eee;
     display: flex;
     align-items: center;
@@ -104,12 +74,12 @@ main {
 
 }
 
-.project-info h3 {
+.movie-info h3 {
     margin-top: 0;
 }
 
 
-.project-info span {
+.movie-info span {
     background-color: var(--primary-color);
     padding: 0.25rem 0.5rem;
     border-radius: 3px;
@@ -117,42 +87,31 @@ main {
      
 }
 
+.movie-info span.green {
+    color: green;
+}
 
+.movie-info span.orange {
+    color: orange;
+}
 
-.discription {
+.movie-info span.red {
+    color: red;
+}
+
+.overview {
     background-color: #fff;
-    padding: 1rem;
+    padding: 2rem;
     position: absolute; 
     right: 0;
     left: 0;
     bottom: 0;
-    /* top: 0; */
     max-height: 100%;
     transform: translateY(101%);
     transition: transform 0.3s ease-in;
     
 }
 
-.project:hover .discription {
+.movie:hover .overview {
     transform: translateY(0);
 }
-
-
-.demoBtn {
-    color: #eee;
-    background-color: var(--secondary-color);
-    border-radius: 10px;
-    padding: 0.25rem 1rem;
-    /* margin: 1rem; */
-}
-
-.demoBtn a {
-    color: #eee;
-    text-decoration-line: none;
-}
-
-.demoBtn:hover {
-    cursor: pointer;
-}
-
-
