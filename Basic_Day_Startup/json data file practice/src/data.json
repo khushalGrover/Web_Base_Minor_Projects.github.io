@@ -1,0 +1,30 @@
+{
+
+    "studentDetails": [
+        {
+            "name": "KhushalGrover",
+            "age": 14,
+            "class": "5th"
+        },
+        {
+            "name": "ggg",
+            "age": 13,
+            "class": "4th"
+        },
+        {
+            "name": "fgt",
+            "age": 13,
+            "class": "4th"
+        },
+        {
+            "name": "hh",
+            "age": 15,
+            "class": "6th"
+        },
+        {
+            "name": "uu",
+            "age": 16,
+            "class": "7th"
+        }
+    ]
+}
