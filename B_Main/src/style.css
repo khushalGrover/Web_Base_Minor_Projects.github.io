@@ -35,8 +35,6 @@ body{
     align-items: center;
     margin: 10px;
     background-color: rgb(254, 229, 229);
-    /* width: 25%; */
-    /* height: ; */ 
     border-radius: 10px;
     list-style-type: none;
     text-decoration: none;
@@ -126,7 +124,6 @@ main {
     right: 0;
     left: 0;
     bottom: 0;
-    /* top: 0; */
     max-height: 100%;
     transform: translateY(101%);
     transition: transform 0.3s ease-in;
