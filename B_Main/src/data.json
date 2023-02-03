@@ -23,7 +23,7 @@
         },
         {
             "id": 3,
-            "title": "Rotating_NaviBar",
+            "title": "Rotating_Navibar",
             "descriptions": "ddd", 
             "path": "./",
             "thumbnail": "./"
@@ -79,14 +79,14 @@
         }, 
         {
             "id": 11,
-            "title": "Event_key_Codes",
+            "title": "Event_Key_Codes",
             "descriptions": "ddd", 
             "path": "./",
             "thumbnail": "./"
         }, 
         {
             "id": 12,
-            "title": "FAQ Collapse",
+            "title": "FAQ_Collapse",
             "descriptions": "ddd", 
             "path": "./",
             "thumbnail": "./"
@@ -94,269 +94,60 @@
         , 
         {
             "id": 13,
-            "title": "Random Choice Picker",
+            "title": "Random_Choice",
             "descriptions": "ddd", 
             "path": "./",
             "thumbnail": "./"
         }, 
         {
             "id": 14,
-            "title": "Nav Bar Close Animatin",
+            "title": "Nav_Bar_Close_Animatin",
             "descriptions": "ddd", 
             "path": "./",
             "thumbnail": "./"
         }, 
         {
             "id": 15,
-            "title": "Subscriber Counter",
+            "title": "Subscriber_Counter",
             "descriptions": "ddd", 
             "path": "./",
             "thumbnail": "./"
         }, 
         {
             "id": 16,
-            "title": "Drink water",
+            "title": "Drink_Water",
             "descriptions": "ddd", 
             "path": "./",
             "thumbnail": "./"
         }, 
         {
             "id": 17,
-            "title": "Movie App",
+            "title": "Movie_App",
             "descriptions": "ddd", 
             "path": "./",
             "thumbnail": "./"
         }, 
         {
             "id": 18,
-            "title": "Background Slider",
-            "descriptions": "ddd", 
+            "title": "Background_Slider",
+            "descriptions": "", 
             "path": "./",
             "thumbnail": "./"
         }, 
         {
             "id": 19,
-            "title": "Theme Clock",
+            "title": "Theme_Clock",
             "descriptions": "ddd", 
             "path": "./",
             "thumbnail": "./"
         }, 
         {
             "id": 20,
-            "title": "Button Ripple Effect",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 21,
-            "title": "Drag n Drop",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 22,
-            "title": "Drawing App",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 23,
-            "title": "Kinetic CSS Loader",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 24,
-            "title": "Content Placeholder",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 25,
-            "title": "Sticky Navbar",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 26,
-            "title": "Double Vertical Slider",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 27,
-            "title": "Toast Notification",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 28,
-            "title": "Git Profile",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 29,
-            "title": "Double Heart Click",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 30,
-            "title": "Auto Text Effect",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 31,
-            "title": "Password Generator",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 32,
-            "title": "Good Cheap fast Checkboxes",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 33,
-            "title": "Notes App",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 34,
-            "title": "Animated Countdown",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 35,
-            "title": "Image Carousel",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 36,
-            "title": "Hoverboard",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 37,
-            "title": "Pokedex",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 38,
-            "title": "Mobile Tab Navigation",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 39,
-            "title": "Password Strength Checker",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 40,
-            "title": "3D background Boxes",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 41,
-            "title": "Verify Account Ui",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 42,
-            "title": "Live user Fillter",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 43,
-            "title": "Feedback UI Desgin",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 44,
-            "title": "Custom Range Slider",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 45,
-            "title": "NetFlix Navigatio",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 46,
-            "title": "Quiz App",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 47,
-            "title": "Testimonial Box Switcher",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 48,
-            "title": "Random Image feed",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 49,
-            "title": "Todo List",
-            "descriptions": "ddd", 
-            "path": "./",
-            "thumbnail": "./"
-        }, 
-        {
-            "id": 50,
-            "title": "Insect Catch Game",
+            "title": "Button_Ripple_Effect",
             "descriptions": "ddd", 
             "path": "./",
             "thumbnail": "./"
         }
+        
     ]
 }
