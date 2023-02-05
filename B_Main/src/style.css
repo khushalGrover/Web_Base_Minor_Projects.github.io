@@ -77,7 +77,23 @@ header {
 
 main {
     display: flex;
-    flex-wrap: wrap;
+
+}
+.main-left {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    right: 0;
+    width: 50%;
+}
+
+.main-right {
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+    background-color: #7378c5;
+    height: 100%;
 }
 .dayNumber {
     width: auto;
