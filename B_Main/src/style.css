@@ -62,7 +62,7 @@ header {
 
 .search::placeholder {
     color: #7378c5;
-
+    
 }
 
 .search:focus{
@@ -70,15 +70,30 @@ header {
     background-color: var(--primary-color);
 }
 
+.titleHeading {
+    color: #fff;
+    padding: 0 1rem;
+}
 
 main {
     display: flex;
     flex-wrap: wrap;
 }
+.dayNumber {
+    width: auto;
+    font-size: small;
+    padding: 5px 5px;
+    border-radius: 0 0 5px 0;
+    color: #eee;
+    background-color: #7378c5;
+    position: absolute;
+    /* border: 0; */
+    margin: 0;
+}
 
 .project {
     width: 300px;
-    margin: 1rem;
+    margin: 0.2rem;
     background-color: var(--secondary-color);
     box-shadow: 0 4px 5px rgba(0,0,0, 0.2);
     overflow: hidden;
@@ -96,14 +111,15 @@ main {
     color: #eee;
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 0.5rem 1rem 1rem;
+    justify-content: center;
+    padding: 0.5rem ;
     letter-spacing: 0.5px;
 
 }
 
 .project-info h3 {
     margin-top: 0;
+    margin-bottom: 0;
 }
 
 

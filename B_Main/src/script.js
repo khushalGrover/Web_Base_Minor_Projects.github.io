@@ -18,18 +18,20 @@ function makeProjectCards(dts) {
         const cardEl = document.createElement('div')
         cardEl.classList.add('project')
         cardEl.innerHTML = `
-                        <img src="https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1189&q=80" alt="codeImage">
+                        <h2 class="dayNumber">Day ${ids}</h2>
+                        <img src="./Day_00_Project_Starter/static/profile-1.jpeg" alt="codeImage">
                         <div class="project-info">
-                            <h3 class="title">Day_${ids} ${title}</h3>
+                            
+                            <h3 class="title">${title}</h3>
                             
                         </div>
                         <div class="discription">
                             <h3>Discription</h3>
                             ${descriptions}
-                            <button class='demoBtn'>
+                            <a href="./Day_${ids}_${title}/src/index.html">
+                                <button class='demoBtn'>Live Demo</button>
+                            </a>
                             
-                            <a href="./Day_${ids}_${title}/src/index.html">clicl</a>
-                            </button>
                         </div>
         `
         main.appendChild(cardEl)
