@@ -5,6 +5,7 @@
 }
 
 body{
+    background-color: black;
     font-family: 'Roboto', sans-serif;
     display: flex;
     flex-direction: column;
@@ -13,4 +14,32 @@ body{
     height: 100vh;
     overflow: hidden;
     margin: 0;
+}
+
+body {
+    background-color: purple;
+    color: #fff;
+    border: 1px purple solid;
+    font-size: 14px;
+    letter-spacing: 2px;
+    padding: 20px;
+    overflow: hidden;
+    margin: 10px 0;
+    position: relative;
+}
+
+button .circle {
+    position: absolute;
+    background: #fff;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    animation: scale .5s ease-out
+}
+
+@keyframes scale {
+    to {
+        transform: translate(-50%, -50%) scale;
+    }
 }
