@@ -1,4 +1,4 @@
-const main = document.querySelector('.main')
+const main = document.querySelector('.main-left')
 
 fetch('./B_Main/src/data.json', {mode: 'no-cors'})
 .then(response => response.json())
