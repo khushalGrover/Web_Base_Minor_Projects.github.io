@@ -164,6 +164,37 @@
             "path": "./",
             "thumbnail": "./"
         }
+        , 
+        {
+            "id": 23,
+            "title": "Kinetic_CSS_Loader",
+            "descriptions": "ddd", 
+            "path": "./",
+            "thumbnail": "./"
+        }
+        , 
+        {
+            "id": 24,
+            "title": "Content_Placehold",
+            "descriptions": "ddd", 
+            "path": "./",
+            "thumbnail": "./"
+        }
+        , 
+        {
+            "id": 25,
+            "title": "Stickey_Navbar",
+            "descriptions": "ddd", 
+            "path": "./",
+            "thumbnail": "./"
+        },
+        {
+            "id": 26,
+            "title": "Double_Vertical_Slider",
+            "descriptions": "ddd", 
+            "path": "./",
+            "thumbnail": "./"
+        }
         
     ]
 }

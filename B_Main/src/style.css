@@ -81,12 +81,16 @@ main {
 }
 .main-left {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
     right: 0;
-    width: 50%;
+    width: 100%;
+}
+.main-left .project {
+    /* margin: 10px; */
+
 }
 
-.main-right {
+/* .main-right {
 
     position: absolute;
     top: 0;
@@ -94,7 +98,7 @@ main {
     width: 50%;
     background-color: #7378c5;
     height: 100%;
-}
+} */
 .dayNumber {
     width: auto;
     font-size: small;
@@ -108,7 +112,7 @@ main {
 }
 
 .project {
-    width: 300px;
+    /* width: 300px; */
     margin: 0.2rem;
     background-color: var(--secondary-color);
     box-shadow: 0 4px 5px rgba(0,0,0, 0.2);
