@@ -187,6 +187,13 @@
             "descriptions": "ddd", 
             "path": "./",
             "thumbnail": "./"
+        },
+        {
+            "id": 26,
+            "title": "Double_Vertical_Slider",
+            "descriptions": "ddd", 
+            "path": "./",
+            "thumbnail": "./"
         }
         
     ]
