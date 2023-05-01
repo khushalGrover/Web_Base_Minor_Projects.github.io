@@ -217,15 +217,15 @@
             "thumbnail": "./"
         },
         {
-            "id": 27,
-            "title": "Toast_Notification",
+            "id": 30,
+            "title": "Auto_Typing_Effect",
             "descriptions": "ddd", 
             "path": "./",
             "thumbnail": "./"
         },
         {
-            "id": 27,
-            "title": "Toast_Notification",
+            "id": 31,
+            "title": "Password_Generator",
             "descriptions": "ddd", 
             "path": "./",
             "thumbnail": "./"
