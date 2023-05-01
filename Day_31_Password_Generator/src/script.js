@@ -20,8 +20,8 @@ generateEl.addEventListener('click', () => {
     const isupper = upperCaseEl.checked
     const isNumber = numberEl.checked
     const isSymbols = symbolsEl.checked
-    console.log(resultEl.innerText);    // error
-    // resultEl.innerText = generatePassword( length, isLower, isupper, isNumber,isSymbols);
+    // console.log(resultEl.innerText);    // error
+    resultEl.innerText = generatePassword( length, isLower, isupper, isNumber,isSymbols);
 })
 
 
